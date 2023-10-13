@@ -1,3 +1,6 @@
+
+#   how to connect kaggle notebook to pc
+
 import socket
 
 # Create a socket object
